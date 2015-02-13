@@ -190,11 +190,11 @@ if has("gui_running")
     set guioptions-=L
     set guioptions+=a
     set guioptions-=m
-    colo badwolf
+    colo molokai2
     set listchars=tab:▸\ ,eol:¬         " Invisibles using the Textmate style
 else
     set t_Co=256
-    colorschem badwolf
+    colorschem molokai2
 endif
 
 " Special Settings for Consoles
