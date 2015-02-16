@@ -236,3 +236,9 @@ imap <leader>l <ESC>:TagbarToggle<cr>i
 
 " =========== END Plugin Settings =========="
 "
+
+" Bjarte's tweaks "
+
+set guifont=Menlo:h14 
+imap <leader>r <ESC>:CoffeeRun<cr>
+nmap <leader>r <ESC>:CoffeeRun<cr>
