@@ -1,7 +1,7 @@
 # Bjarte's modified - Vim as your nodejs IDE
 
 
-This is forked from [haridas's vim-as-your-ide](https://github.com/haridas/Dotfiles) 
+This is forked from [viruschidai's vim-as-nodejs-ide](https://github.com/viruschidai/vim-as-nodejs-ide)
 and I've added more plugins for nodejs development
 
 Vim plugins included:
