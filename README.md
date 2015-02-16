@@ -12,7 +12,6 @@ Vim plugins included:
 * [Fugitive](https://github.com/tpope/vim-fugitive.git)
 * [NerdTree](https://github.com/scrooloose/nerdtree.git)
 * [Nerdcommenter](https://github.com/scrooloose/nerdcommenter.git)
-* [Rope](https://github.com/klen/rope-vim.git)
 * [Tagbar](https://github.com/majutsushi/tagbar.git)
 * [SimplePairs](https://github.com/vim-scripts/simple-pairs.git)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe.git)

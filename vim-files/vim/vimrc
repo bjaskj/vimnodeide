@@ -110,9 +110,6 @@ nnoremap <right> <nop>
 nnoremap j gj
 nnoremap k gk
 
-" Rope settings."
-inoremap <leader>j <ESC>:RopeGotoDefinition<cr>
-
 " Get Rid of stupid Goddamned help keys
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
