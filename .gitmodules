@@ -43,3 +43,6 @@
 [submodule "vim-files/vim/bundle/vim-stylus"]
 	path = vim-files/vim/bundle/vim-stylus
 	url = https://github.com/wavded/vim-stylus.git
+[submodule "vim-files/vim/bundle/vim-javascript-syntax"]
+    path = vim-files/vim/bundle/vim-javascript-syntax
+    url  = https://github.com/wavded/vim-stylus.git
