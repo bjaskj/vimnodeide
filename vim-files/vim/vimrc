@@ -239,3 +239,5 @@ imap <leader>l <ESC>:TagbarToggle<cr>i
 set guifont=Menlo:h14 
 imap <leader>r <ESC>:!node "%"<cr>
 nmap <leader>r <ESC>:!node "%"<cr>
+imap <leader>l <ESC>:w<CR>:make<CR>:cw<CR>
+nmap <leader>l <ESC>:w<CR>:make<CR>:cw<CR>
