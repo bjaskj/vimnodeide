@@ -60,7 +60,7 @@
     ignore = dirty
 [submodule "vim-files/vim/bundle/vim-javascript-syntax"]
     path = vim-files/vim/bundle/vim-javascript-syntax
-    url  = https://github.com/wavded/vim-stylus.git
+    url  = https://github.com/jelera/vim-javascript-syntax.git
     ignore = dirty
 [submodule "vim-files/vim/bundle/vim-less"]
 	path = vim-files/vim/bundle/vim-less
